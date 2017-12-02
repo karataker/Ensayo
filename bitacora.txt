@@ -1,0 +1,3 @@
+ 06       add bicatora.txt
+ 07       commit
+ 08       checkout Lola
