@@ -1,0 +1,11 @@
+%%                 MÈtodos de Desarrollo - Test de Git              %%
+%%==================================================================%%
+%% Alumno (Nombre + DNI): Luis Osle Garcia, 72085904V         %%	
+%%==================================================================%%
+
+  Paso           AcciÛn/Comando                  Notas
+======== ============================ ================================
+ 01       clone URL
+ 02       checkout -b Paco
+ 03       checkout -b Lola
+ 04       checkout Paco 
