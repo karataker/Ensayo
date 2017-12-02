@@ -1,3 +1,9 @@
  06       add bicatora.txt
  07       commit
  08       checkout Lola
+ 10       add bitacora.txt
+ 11       commit
+ 16       add bitacora.txt
+ 17       commit 
+ 18       checkout Lola
+ 19       stash apply
