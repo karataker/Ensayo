@@ -20,3 +20,6 @@ Paso           AcciÛn/Comando                  Notas
 17       commit
 18       checkout Lola
 19       stash apply
+27       commit 
+28       push 			      Fuera de sincronÌa
+29       pull + push	     
