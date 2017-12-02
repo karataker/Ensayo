@@ -9,3 +9,5 @@
  02       checkout -b Paco
  03       checkout -b Lola
  04       checkout Paco 
+ 13       stash + checkout
+ 14       merge                       Fast-forward
