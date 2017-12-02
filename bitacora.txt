@@ -1,13 +1,22 @@
 %%                 MÈtodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Nombre + DNI): Luis Osle Garcia, 72085904V         %%	
+%% Alumno (Nombre + DNI): Luis Osle Garcia, 72085904V         %%
 %%==================================================================%%
 
-  Paso           AcciÛn/Comando                  Notas
+Paso           AcciÛn/Comando                  Notas
 ======== ============================ ================================
- 01       clone URL
- 02       checkout -b Paco
- 03       checkout -b Lola
- 04       checkout Paco 
- 13       stash + checkout
- 14       merge                       Fast-forward
+01       clone URL
+02       checkout -b Paco
+03       checkout -b Lola
+04       checkout Paco
+06       add bicatora.txt
+07       commit
+08       checkout Lola
+10       add bitacora.txt
+11       commit
+13       stash + checkout
+14       merge                       Fast-forward
+16       add bitacora.txt
+17       commit
+18       checkout Lola
+19       stash apply
